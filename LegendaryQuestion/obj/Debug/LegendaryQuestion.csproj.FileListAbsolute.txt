@@ -1,0 +1,259 @@
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\LegendaryQuestion.dll.config
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\LegendaryQuestion.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\LegendaryQuestion.pdb
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Antlr3.Runtime.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\EntityFramework.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\EntityFramework.SqlServer.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Google.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Web.Infrastructure.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Newtonsoft.Json.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Owin.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Helpers.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Mvc.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Optimization.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Razor.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.WebPages.Deployment.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.WebPages.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.WebPages.Razor.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\WebGrease.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Helpers.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Mvc.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Optimization.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Razor.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.WebPages.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.WebPages.Deployment.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\System.Web.WebPages.Razor.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Antlr3.Runtime.pdb
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Newtonsoft.Json.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\EntityFramework.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\EntityFramework.SqlServer.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Google.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\obj\Debug\LegendaryQuestion.csprojResolveAssemblyReference.cache
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\obj\Debug\LegendaryQuestion.dll
+c:\users\knieskes_be\documents\visual studio 2013\Projects\LegendaryQuestion\LegendaryQuestion\obj\Debug\LegendaryQuestion.pdb
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\LegendaryQuestion.dll.config
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\LegendaryQuestion.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\LegendaryQuestion.pdb
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Antlr3.Runtime.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\EntityFramework.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\EntityFramework.SqlServer.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Newtonsoft.Json.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Owin.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.Helpers.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.Mvc.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.Optimization.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.Razor.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.WebPages.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.WebPages.Razor.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\WebGrease.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.Helpers.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.Mvc.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.Optimization.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.Razor.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.WebPages.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Web.WebPages.Razor.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Antlr3.Runtime.pdb
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Newtonsoft.Json.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\EntityFramework.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\EntityFramework.SqlServer.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\obj\Debug\LegendaryQuestion.csprojResolveAssemblyReference.cache
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\obj\Debug\LegendaryQuestion.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\obj\Debug\LegendaryQuestion.pdb
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Threading.Tasks.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Salesforce.Common.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Salesforce.Force.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Net.Http.Extensions.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Net.Http.Primitives.dll
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Threading.Tasks.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Net.Http.Extensions.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\bin\System.Net.Http.Primitives.xml
+C:\Users\bguild_be\Dropbox\QuerySite\QuerySite\LegendaryQuestion\obj\Debug\LegendaryQuestion.csproj.App.config
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\LegendaryQuestion.dll.config
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\LegendaryQuestion.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\LegendaryQuestion.pdb
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Antlr3.Runtime.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\EntityFramework.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\EntityFramework.SqlServer.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Threading.Tasks.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Newtonsoft.Json.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Owin.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Salesforce.Common.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Salesforce.Force.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Net.Http.Extensions.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Net.Http.Primitives.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Helpers.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Mvc.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Optimization.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Razor.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.WebPages.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.WebPages.Razor.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\WebGrease.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Threading.Tasks.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Newtonsoft.Json.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Net.Http.Extensions.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Net.Http.Primitives.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Helpers.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Mvc.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Optimization.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.Razor.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.WebPages.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\System.Web.WebPages.Razor.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Antlr3.Runtime.pdb
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\EntityFramework.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\EntityFramework.SqlServer.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\obj\Debug\LegendaryQuestion.csproj.App.config
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\obj\Debug\LegendaryQuestion.csprojResolveAssemblyReference.cache
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\obj\Debug\LegendaryQuestion.dll
+C:\Users\KNieskes_be\Documents\LegendaryQuestion\LegendaryQuestion\obj\Debug\LegendaryQuestion.pdb
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\LegendaryQuestion.dll.config
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\LegendaryQuestion.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\LegendaryQuestion.pdb
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Antlr3.Runtime.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\EntityFramework.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\EntityFramework.SqlServer.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Threading.Tasks.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Newtonsoft.Json.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Owin.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Salesforce.Common.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Salesforce.Force.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Net.Http.Extensions.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Net.Http.Primitives.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.Helpers.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.Mvc.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.Optimization.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.Razor.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.WebPages.Deployment.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.WebPages.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.WebPages.Razor.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\WebGrease.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Threading.Tasks.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Newtonsoft.Json.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Net.Http.Extensions.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Net.Http.Primitives.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.Helpers.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.Mvc.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.Optimization.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.Razor.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.WebPages.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.WebPages.Deployment.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\System.Web.WebPages.Razor.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Antlr3.Runtime.pdb
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\EntityFramework.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\EntityFramework.SqlServer.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\obj\Debug\LegendaryQuestion.csproj.App.config
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\obj\Debug\LegendaryQuestion.csprojResolveAssemblyReference.cache
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\obj\Debug\LegendaryQuestion.dll
+C:\Users\sfuerbringer_be\Dropbox\QuerySite\LegendaryQuestion\obj\Debug\LegendaryQuestion.pdb
