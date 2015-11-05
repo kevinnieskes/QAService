@@ -62,7 +62,7 @@ namespace LegendaryQuestion.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "ID,AskedBy,AskedWhen,Question")] Query query)
+        public ActionResult Create([Bind(Include = "ID,Name,Subject,Question")] Query query)
         {
             if (ModelState.IsValid)
             {
@@ -115,16 +115,26 @@ namespace LegendaryQuestion.Controllers
         // GET: Queries/Delete/5
         public ActionResult Delete(int? id)
         {
-            if (id == null)
+            try
             {
-                return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+                var accessToken = Session["AccessToken"].ToString();
+                var apiVersion = Session["ApiVersion"].ToString();
+                var instanceUrl = Session["InstanceUrl"].ToString();
+                if (id == null)
+                {
+                    return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
+                }
+                Query query = db.Queries.Find(id);
+                if (query == null)
+                {
+                    return HttpNotFound();
+                }
+                return View(query);
             }
-            Query query = db.Queries.Find(id);
-            if (query == null)
+            catch
             {
-                return HttpNotFound();
+                return RedirectToAction("Error");
             }
-            return View(query);
         }
 
         // POST: Queries/Delete/5
@@ -148,6 +158,10 @@ namespace LegendaryQuestion.Controllers
         }
 
         public ActionResult SalesForceSend()
+        {
+            return View();
+        }
+        public ActionResult Error()
         {
             return View();
         }
