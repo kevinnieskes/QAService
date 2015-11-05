@@ -80,16 +80,13 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.AskedBy)
+            @Html.DisplayNameFor(model => model.Name)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.AskedWhen)
+            @Html.DisplayNameFor(model => model.Subject)
         </th>
         <th>
             @Html.DisplayNameFor(model => model.Question)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Answer)
         </th>
         <th>
         </th>
@@ -99,16 +96,13 @@
     {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.AskedBy)
+                @Html.DisplayFor(modelItem => item.Name)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.AskedWhen)
+                @Html.DisplayFor(modelItem => item.Subject)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Question)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Answer)
             </td>
             <td>
                 @*@Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
