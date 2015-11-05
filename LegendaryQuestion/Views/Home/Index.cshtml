@@ -1,4 +1,6 @@
-﻿@{
+﻿@model IEnumerable<LegendaryQuestion.Models.Query>
+
+@{
     ViewBag.Title = "Home Page";
 }
 
@@ -8,9 +10,9 @@
     <p><a href="http://www.google.com/" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
 </div>
 
-<!--  ----------------------------------------------------------------------  -->
+@*<!--  ----------------------------------------------------------------------  -->
 
-<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+*<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 
 <!--  ----------------------------------------------------------------------  -->
 <!--  NOTE: Please add the following <FORM> element to your page.             -->
@@ -31,28 +33,23 @@
 
     
     <div class="col-md-3">
-        <label for="type">Name</label><input id="type" maxlength="80" name="type" size="20" type="text" />
+        <label for="type">Name</label>
+        <input id="type" maxlength="80" name="type" size="20" type="text" />
     </div>
 
     <div class="col-md-3">
-        <label for="subject">Subject</label><input id="subject" maxlength="80" name="subject" size="20" type="text" />
+        <label for="subject">Subject</label>
+        <input id="subject" maxlength="80" name="subject" size="20" type="text" />
     </div>
 
     <div class="col-md-3">
-        <label for="description">Question</label><textarea name="description"></textarea>
+        <label for="description">Question</label>
+        <textarea name="description"></textarea>
     </div>
     
     <div class="col-md-3"> 
         <input type="submit" name="submit" formtarget="_blank">
     </div>
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
-    <br />
     <br />
    
     @*<label for="status">Status</label><select id="status" name="status">
@@ -61,10 +58,68 @@
         <option value="Working">Working</option>
         <option value="Escalated">Escalated</option>
         <option value="Closed">Closed</option>
-    </select><br>*@
+    </select><br>
+</form>*@
 
-    
+<h2>Questions Waiting for Answers</h2>
 
-</form>
+<p>
+    @Html.ActionLink("Ask A Question", "Create")
+
+    @*@using (Html.BeginForm())
+    {
+    <p>
+        Questions: @Html.TextBox("SearchString") <br />
+        <input type="submit" value="Search" />
+    </p>
+    }*@
+
+
+    </p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AskedBy)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AskedWhen)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Question)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Answer)
+        </th>
+        <th>
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AskedBy)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AskedWhen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Question)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Answer)
+            </td>
+            <td>
+                @*@Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })*@
+            </td>
+        </tr>
+    }
+
+</table>
+
+
 
 

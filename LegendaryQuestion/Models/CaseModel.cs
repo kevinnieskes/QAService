@@ -7,6 +7,7 @@ namespace LegendaryQuestion.Models
 {
     public class CaseModel
     {
+        public int Id { get; set; }
         public string CaseNumber { get; set; }
         public string Type { get; set; }
         public string Subject { get; set; }

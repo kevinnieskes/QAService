@@ -269,6 +269,8 @@
     <Content Include="Views\Case\Details.cshtml" />
     <Content Include="Views\Case\Edit.cshtml" />
     <Content Include="Views\Case\Index.cshtml" />
+    <Content Include="Views\Home\Create.cshtml" />
+    <Content Include="Views\Home\SalesForceSend.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
