@@ -4,56 +4,19 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>SalesForceSend</h2>
-
-<!--  ----------------------------------------------------------------------  -->
-
-*<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
-
-    <!--  ----------------------------------------------------------------------  -->
-    <!--  NOTE: Please add the following <FORM> element to your page.             -->
-    <!--  ----------------------------------------------------------------------  -->
-
+<h2>Question Submitted</h2>
+<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 <form action="https://www.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8" method="POST">
 
         <input type=hidden name="orgid" value="00D61000000dbH3">
         <input type=hidden name="retURL" value="http://">
-
-        <!--  ----------------------------------------------------------------------  -->
-        <!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
-        <!--  these lines if you wish to test in debug mode.                          -->
-        <!--  <input type="hidden" name="debug" value=1>                              -->
-        <!--  <input type="hidden" name="debugEmail"                                  -->
-        <!--  value="brandonrguild@gmail.com">                                        -->
-        <!--  ----------------------------------------------------------------------  -->
-
+        <input id="type" maxlength="80" name="type" size="20" type=hidden value = "@ViewBag.Name" />
+        <input id="subject" maxlength="80" name="subject" size="20" type=hidden value= @ViewBag.Subject />
+        <input id="question" maxlength="80" name="subject" size="20" type=hidden value= @ViewBag.Question />
 
         <div class="col-md-3">
-            <label for="type">Name</label>
-            <input id="type" maxlength="80" name="type" size="20" type="text" />
-        </div>
-
-        <div class="col-md-3">
-            <label for="subject">Subject</label>
-            <input id="subject" maxlength="80" name="subject" size="20" type="text" />
-        </div>
-
-        <div class="col-md-3">
-            <label for="description">Question</label>
-            <textarea name="description"></textarea>
-        </div>
-
-        <div class="col-md-3">
-            <input type="submit" name="submit" formtarget="/Home">
+            <center><input type="submit" name="Confirm Submission" formtarget="/Home"></center>
         </div>
         <br />
-
-        @*<label for="status">Status</label><select id="status" name="status">
-            <option value="">--None--</option>
-            <option value="New">New</option>
-            <option value="Working">Working</option>
-            <option value="Escalated">Escalated</option>
-            <option value="Closed">Closed</option>
-        </select><br>*@
 </form>
 
