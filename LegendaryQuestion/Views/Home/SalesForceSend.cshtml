@@ -3,20 +3,26 @@
     ViewBag.Title = "SalesForceSend";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-
-<h2>Question Submitted</h2>
+<br />
+<br />
+<center><h2>Confirm Question Submission</h2></Center>
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
-<form action="https://www.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8" method="POST">
+<Center>
+    <form action="https://www.salesforce.com/servlet/servlet.WebToCase?encoding=UTF-8" method="POST" target="_blank">
 
         <input type=hidden name="orgid" value="00D61000000dbH3">
-        <input type=hidden name="retURL" value="http://">
-        <input id="type" maxlength="80" name="type" size="20" type=hidden value = "@ViewBag.Name" />
-        <input id="subject" maxlength="80" name="subject" size="20" type=hidden value= @ViewBag.Subject />
-        <input id="question" maxlength="80" name="subject" size="20" type=hidden value= @ViewBag.Question />
-
-        <div class="col-md-3">
-            <center><input type="submit" name="Confirm Submission" formtarget="/Home"></center>
-        </div>
+        <input type=hidden name="retURL" value="/Home/index.cshtml">
+        <input id="name" maxlength="80" name="name" size="20" type=hidden value="@ViewBag.Name" />
+        <input id="subject" maxlength="80" name="subject" size="20" type=hidden value=@ViewBag.Subject />
+        <input id="description" maxlength="80" name="description" size="20" type=hidden value=@ViewBag.Question />
         <br />
-</form>
+        <br />
+        <div>
+            <input type="submit" name="Confirm Submission" value="Confirm">
+
+        </div>
+
+        <br />
+    </form>
+</center>
 

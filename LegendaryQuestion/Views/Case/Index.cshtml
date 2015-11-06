@@ -13,6 +13,10 @@
     <tr>
         <th>
             @*@Html.DisplayNameFor(model => model.CaseNumber)*@
+            <p><b>Case ID</b></p>
+        </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.CaseNumber)*@
             <p><b>Case Number</b></p>
         </th>
         <th>
@@ -27,16 +31,23 @@
             @*@Html.DisplayNameFor(model => model.Description)*@
             <p><b>Question</b></p>
         </th>
+        <th>
+            @*@Html.DisplayNameFor(model => model.Description)*@
+            <p><b>Status</b></p>
+        </th>
         <th></th>
     </tr>
 
 @foreach (var item in Model) {
     <tr>
         <td>
+            @Html.DisplayFor(modelItem => item.Id)
+        </td>
+        <td>
             @Html.DisplayFor(modelItem => item.CaseNumber)
         </td>
         <td>
-            @Html.DisplayFor(modelItem => item.Type)
+            @Html.DisplayFor(modelItem => item.SuppliedName)
         </td>
         <td>
             @Html.DisplayFor(modelItem => item.Subject)
@@ -44,11 +55,16 @@
         <td>
             @Html.DisplayFor(modelItem => item.Description)
         </td>
-        @*<td>
-        @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
-        @Html.ActionLink("Details", "Details", new { id=item.Id }) |
-        @Html.ActionLink("Delete", "Delete", new { id=item.Id })
-    </td>*@
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>      
+        <td>
+        @Html.ActionLink("Close", "Edit", new { Id=item.Id }) |
+        @Html.ActionLink("Open", "Open", new { Id = item.Id })
+            
+        @*@Html.ActionLink("Details", "Details", new { id=item.Id }) |
+        @Html.ActionLink("Delete", "Delete", new { id=item.Id })*@
+    </td>
     </tr>
 }
 
