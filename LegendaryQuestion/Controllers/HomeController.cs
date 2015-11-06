@@ -19,7 +19,6 @@ namespace LegendaryQuestion.Controllers
             var queriesSearch = from q in db.Queries
                                 select q;
 
-            
             return View(queriesSearch);
         }
 
@@ -68,7 +67,7 @@ namespace LegendaryQuestion.Controllers
             {
                 db.Queries.Add(query);
                 db.SaveChanges();
-                return RedirectToAction("SalesForceSend", new { Name = query.Name, Subject = query.Subject, Question = query.Question });
+                return RedirectToAction("SalesForceSend", new {Name = query.Name, Subject = query.Subject, Question = query.Question });
             }
 
             return View(query);
