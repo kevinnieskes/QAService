@@ -61,7 +61,7 @@ namespace WebApllication9.Controllers
             CaseModel1 caseModel = new CaseModel1() { Status = "Closed"};
             await client.UpdateAsync("Case", Id, caseModel);
             //var cases = await client.QueryAsync<CaseModel>("SELECT CaseNumber, Status, Subject, Description FROM Case WHERE CaseNumber='" + caseID + "'");
-            var cases = await client.QueryAsync<CaseModel>("SELECT id, CaseNumber, SuppliedName, Subject, Description, Status FROM Case WHERE id='" + Id + "'");
+            //var cases = await client.QueryAsync<CaseModel>("SELECT id, CaseNumber, SuppliedName, Subject, Description, Status FROM Case WHERE id='" + Id + "'");
             return RedirectToAction("Index");
         }
         public async Task<ActionResult> Open(string Id)
@@ -75,7 +75,7 @@ namespace WebApllication9.Controllers
             CaseModel1 caseModel = new CaseModel1() { Status = "New" };
             await client.UpdateAsync("Case", Id, caseModel);
             //var cases = await client.QueryAsync<CaseModel>("SELECT CaseNumber, Status, Subject, Description FROM Case WHERE CaseNumber='" + caseID + "'");
-            var cases = await client.QueryAsync<CaseModel>("SELECT id, CaseNumber, SuppliedName, Subject, Description, Status FROM Case WHERE id='" + Id + "'");
+            //var cases = await client.QueryAsync<CaseModel>("SELECT id, CaseNumber, SuppliedName, Subject, Description, Status FROM Case WHERE id='" + Id + "'");
             return RedirectToAction("Index");
         }
         public ActionResult Error()
