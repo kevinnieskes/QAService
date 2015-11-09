@@ -15,6 +15,7 @@ namespace WebApllication9.Controllers
 {
     public class CaseController : Controller
     {
+
         public async Task<ActionResult> Index()
         {
 
@@ -50,7 +51,7 @@ namespace WebApllication9.Controllers
             
         }
 
-        public async Task<ActionResult> Edit(string Id)
+        public async Task<ActionResult> Edit(string Id, string SuppliedName, string Question, string Subject)
         {
 
 
@@ -62,9 +63,23 @@ namespace WebApllication9.Controllers
             await client.UpdateAsync("Case", Id, caseModel);
             //var cases = await client.QueryAsync<CaseModel>("SELECT CaseNumber, Status, Subject, Description FROM Case WHERE CaseNumber='" + caseID + "'");
             //var cases = await client.QueryAsync<CaseModel>("SELECT id, CaseNumber, SuppliedName, Subject, Description, Status FROM Case WHERE id='" + Id + "'");
+            QuestionDBContext db = new LegendaryQuestion.Models.QuestionDBContext();
+            List<int> list = new List<int>();
+            try
+            {
+                var I = db.Queries.Where(c => c.Name == SuppliedName && c.Question == Question && c.Subject == Subject).Select(c => c.ID);
+                foreach (var x in I)
+                {
+                    list.Add(x);
+                }
+                Query query = db.Queries.Find(list[0]);
+                db.Queries.Remove(query);
+                db.SaveChanges();
+            }
+            catch { }
             return RedirectToAction("Index");
         }
-        public async Task<ActionResult> Open(string Id)
+        public async Task<ActionResult> Open(string Id, string SuppliedName)
         {
 
 
@@ -76,6 +91,8 @@ namespace WebApllication9.Controllers
             await client.UpdateAsync("Case", Id, caseModel);
             //var cases = await client.QueryAsync<CaseModel>("SELECT CaseNumber, Status, Subject, Description FROM Case WHERE CaseNumber='" + caseID + "'");
             //var cases = await client.QueryAsync<CaseModel>("SELECT id, CaseNumber, SuppliedName, Subject, Description, Status FROM Case WHERE id='" + Id + "'");
+            //QuestionDBContext db = new QuestionDBContext();
+            // QuestionDBContext db = await.client.QueryAsync<QuestionDBContext>("SELECT *FROM Queries Where SuppliedName= '" + SuppliedName + "'");
             return RedirectToAction("Index");
         }
         public ActionResult Error()

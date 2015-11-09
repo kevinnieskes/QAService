@@ -13,7 +13,7 @@ namespace LegendaryQuestion.Controllers
 
     public class HomeController : Controller
     {
-        private QuestionDBContext db = new QuestionDBContext();
+        public QuestionDBContext db = new QuestionDBContext();
         public ActionResult Index()
         {
             var queriesSearch = from q in db.Queries
@@ -67,6 +67,7 @@ namespace LegendaryQuestion.Controllers
             {
                 db.Queries.Add(query);
                 db.SaveChanges();
+
                 return RedirectToAction("SalesForceSend", new {Name = query.Name, Subject = query.Subject, Question = query.Question });
             }
 
@@ -130,5 +131,12 @@ namespace LegendaryQuestion.Controllers
         {
             return View();
         }
+        //public ActionResult Closed(string SuppliedName)
+        //{
+        //    Query query = db.Queries.Find
+        //    db.Queries.Remove(query);
+        //    db.SaveChanges();
+        //    return RedirectToAction("Index");
+        //}
     }
 }

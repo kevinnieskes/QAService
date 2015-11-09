@@ -56,8 +56,8 @@
             @Html.DisplayFor(modelItem => item.Status)
         </td>      
         <td>
-        @Html.ActionLink("Close", "Edit", new { Id=item.Id }) |
-        @Html.ActionLink("Open", "Open", new { Id = item.Id })
+        @Html.ActionLink("Close", "Edit", new { Id=item.Id, SuppliedName=item.SuppliedName, Question=item.Description, Subject = item.Subject}) |
+        @Html.ActionLink("Open", "Open", new { Id = item.Id, SuppliedName = item.SuppliedName})
             
         @*@Html.ActionLink("Details", "Details", new { id=item.Id }) |
         @Html.ActionLink("Delete", "Delete", new { id=item.Id })*@
